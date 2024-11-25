@@ -61,7 +61,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pro.png" alt="">
-         <p>These stickers are litteraly the best thankyou!💗</p>
+         <p>These stickers are litteraly the best thankyou!!!💗</p>
          <h3><a href="https://www.instagram.com/yourchickenugget/" target="_blank">Yourchickennugget🖤</a></h3>
       </div>
 
@@ -97,8 +97,6 @@ if(isset($_SESSION['user_id'])){
    </div>
 
 </section>
-
-
 
 <?php include 'components/footer.php'; ?>
 
